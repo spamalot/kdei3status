@@ -5,13 +5,13 @@ When the mouse hovers over the widget, or the active window is
 changed, the title of the active window will be displayed.
 
 To build and install the plasmoid, from the directory level above the
-hierarchy kdei3status/contents/code/main.py, run:
+hierarchy kdei3status/contents/code/main.py, run::
 
     $ plasmapkg -r kdei3status  # Uninstall if already installed.
     $ plasmapkg -i kdei3status  # Install from the directory.
     $ kbuildsycoca4  # Rebuild config cache.
 
-To test the plasmoid, run:
+To test the plasmoid, run::
 
     $ plasmoidviewer kdei3status
 
