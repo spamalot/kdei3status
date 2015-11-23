@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KDE i3status
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=utilities-system-monitor
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Spamalot
+X-KDE-PluginInfo-Email=spamalot@users.noreply.github.com
+X-KDE-PluginInfo-Name=kdei3status
+X-KDE-PluginInfo-Version=2015-11-22
+X-KDE-PluginInfo-Website=http://github.com/spamalot/kdei3status
+X-KDE-PluginInfo-Category=Utilities
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPLV3
+X-KDE-PluginInfo-EnabledByDefault=true
